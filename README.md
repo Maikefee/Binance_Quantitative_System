@@ -11,7 +11,8 @@
 A comprehensive quantitative backtesting system for Binance cryptocurrency trading, featuring interactive web interface, multiple technical indicators, and advanced risk management tools.
 
 ### ✨ Features
-
+- **官网**: https://www.dingpandog.com
+- https://github.com/Maikefee/DingPanDog/wiki
 - **🪙 Multi-Currency Support**: All Binance USDT trading pairs
 - **📅 Flexible Time Range**: Customizable backtesting periods
 - **📊 Technical Indicators**: RSI, KDJ, Bollinger Bands, EMA, SMA, MACD, Stochastic, ATR
@@ -220,7 +221,7 @@ TestPro1/
 - 🔥 **最猛那轮，17天收益飙到 553%**
 
 ### 📱 联系方式 / Contact
-- **官网**: [https://t.me/whogotbtc](https://www.dingpandog.com/)
+- **官网**: https://www.dingpandog.com
 - **Telegram**: https://t.me/whogotbtc
 - **Telegram群**: https://t.me/shipanjiankong  
 - **微信联系**: rggboom
